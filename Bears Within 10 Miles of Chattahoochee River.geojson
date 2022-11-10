@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Bears Within 10 Miles of Chattahoochee River",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:ESRI::102039" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 560, "OBJECTID": 6, "NAME": "Chattahoochee", "SYSTEM": null, "MILES": 441.29859, "Shape_Leng": 6.7835641945200003 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 1103953.100853681797162, 1373908.343470941996202 ] ] } },
+{ "type": "Feature", "properties": { "id": 48, "OBJECTID": 6, "NAME": "Chattahoochee", "SYSTEM": null, "MILES": 441.29859, "Shape_Leng": 6.7835641945200003 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 1023685.336889074300416, 960241.664018318755552 ] ] } }
+]
+}
